@@ -11,5 +11,6 @@ func main() {
 }
 
 func run() int {
+	// Test
 	return app.Execute()
 }
